@@ -13,4 +13,5 @@ Model outputs on test set can be found in [scores folder](scores)
 
 ## Authors
 
+*  [Radomir Krawczykiewicz (@Kotwic4)](https://github.com/Kotwic4)
 *  [Piotr Mazur (@Pitirus)](https://github.com/Pitirus)
