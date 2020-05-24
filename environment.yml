@@ -1,0 +1,13 @@
+name:
+  ai-games-2020
+dependencies:
+  - python=3.7
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - pillow
+  - pytz
+  - scikit-learn
+  - scipy
+  - conda-forge::geopy
