@@ -15,3 +15,4 @@ Model outputs on test set can be found in [scores folder](scores)
 
 *  [Radomir Krawczykiewicz (@Kotwic4)](https://github.com/Kotwic4)
 *  [Piotr Mazur (@Pitirus)](https://github.com/Pitirus)
+*  [Mikołaj Babiański (@mikolaj395)](https://github.com/mikolaj395)
